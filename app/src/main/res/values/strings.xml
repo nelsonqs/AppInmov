@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP INMO</string>
+    <string name="title_all">AVISOS</string>
+    <string name="title_map">MAPA</string>
+    <string name="title_m_all">MIS AVISOS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
